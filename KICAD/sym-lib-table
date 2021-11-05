@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name PIC12_BOARD-rescue)(type Legacy)(uri ${KIPRJMOD}/PIC12_BOARD-rescue.lib)(options "")(descr ""))
+)
