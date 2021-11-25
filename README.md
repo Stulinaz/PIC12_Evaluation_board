@@ -16,5 +16,16 @@ The pic 12 board include:
 
 -BOM is displayed on bottom silkscreen side.
 
+TOP SIDE:
+
 ![Test Image 1](https://github.com/Stulinaz/PIC12_Evaluation_board/blob/master/PHOTO/PIC12_Evk_4.JPG)
-![Test Image 2](https://github.com/Stulinaz/PIC12_Evaluation_board/blob/master/PHOTO/PIC12_Evk_6.JPG)
+
+BOTTOM SIDE:
+
+![Test Image 2](https://github.com/Stulinaz/PIC12_Evaluation_board/blob/master/PHOTO/PIC12_Evk_6.JPG
+
+ASSEMBLED PCB:
+
+![Test Image 3](https://github.com/Stulinaz/PIC12_Evaluation_board/blob/master/PHOTO/PIC12_Evk_7.JPG
+
+
